@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'chalobusmein'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21F6B3BDDAEE479189D57D5288A7448F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26CDFB72873E40E49DBD77E72673CF9D }}
           package: .
